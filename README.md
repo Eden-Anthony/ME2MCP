@@ -1,4 +1,4 @@
-# ME2MCP (2nd Year Code
+# ME2MCP (2nd Year Code)
 
 Contents Include:
 
